@@ -58,8 +58,8 @@ To set React Native environment - https://reactnative.dev/docs/environment-setup
 DEVELOPERS
 ----------
 
-W.V.S.K. Vithanage (CT/2016/071) - vithanag_ct16071@stu.kln.ac.lk 
-J.M.C.M. Bandara (CT/2016/007)- bandaraj_ct16007@stu.kln.ac.lk 
-V.S. Amarasinghe (CT/2016/002) - amarasin_ct16002@stu.kln.ac.lk 
-K.V.B. Hulangamuwa (CT/2016/022) - hulangam_ct16022@stu.kln.ac.lk 
+W.V.S.K. Vithanage (CT/2016/071) <br>
+J.M.C.M. Bandara (CT/2016/007) <br>
+V.S. Amarasinghe (CT/2016/002) <br>
+K.V.B. Hulangamuwa (CT/2016/022) <br>
 
